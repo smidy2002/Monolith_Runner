@@ -1123,3 +1123,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.20-13.45.35:641][  0]LogEditorActor: Deleted Actor: StaticMeshActor
 [2020.09.20-13.45.35:657][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
 [2020.09.20-13.45.35:659][  0]LogEditorActor: Deleted 2 Actors (0.027 secs)
+[2020.09.20-13.52.20:253][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2020.09.20-13.52.20:409][730]LogSavePackage: Moving '../../../../../../Users/Например Сергей/Documents/Unreal Projects/Monolith_Runner/Saved/FirstPersonExampleMap_Auto28DBDE80F4D19386152A5669CAEB2759B.tmp' to '../../../../../../Users/Например Сергей/Documents/Unreal Projects/Monolith_Runner/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2020.09.20-13.52.20:412][730]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.175
+[2020.09.20-13.52.20:412][730]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.175
+[2020.09.20-14.02.20:780][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2020.09.20-14.02.20:782][530]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.017
+[2020.09.20-14.04.12:310][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2020.09.20-14.04.12:460][912]LogSavePackage: Moving '../../../../../../Users/Например Сергей/Documents/Unreal Projects/Monolith_Runner/Saved/FirstPersonExampleMap857F4FFA4AA060D4D476E0884730A750.tmp' to '../../../../../../Users/Например Сергей/Documents/Unreal Projects/Monolith_Runner/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.09.20-14.04.13:454][912]LogSavePackage: Moving '../../../../../../Users/Например Сергей/Documents/Unreal Projects/Monolith_Runner/Saved/FirstPersonExampleMap_BuiltData26269BA64C900BAFBA4A18875CE71B5F.tmp' to '../../../../../../Users/Например Сергей/Documents/Unreal Projects/Monolith_Runner/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.09.20-14.04.13:472][912]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.20-14.04.13:472][912]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.09.20-14.04.13:472][912]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
